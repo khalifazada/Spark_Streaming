@@ -1,2 +1,2 @@
 # ignoring Twitter OAuth details
-twitter_auth.py
+/twitter_auth.py
